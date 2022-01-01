@@ -1,37 +1,197 @@
-https://iptv-org.github.io/iptv/countries/ng.m3u
-https://iptv-org.github.io/iptv/countries/ca.m3u
-https://iptv-org.github.io/iptv/countries/uk.m3u
-https://iptv-org.github.io/iptv/countries/us.m3u
-https://iptv-org.github.io/iptv/countries/vi.m3u
-https://iptvm3ulist.com/m3u/sp01_iptvm3ulist_com_231221.m3u
-https://iptvm3ulist.com/m3u/sp02_iptvm3ulist_com_231221.m3u
-https://iptvm3ulist.com/m3u/sp03_iptvm3ulist_com_231221.m3u
-https://iptvm3ulist.com/m3u/sp04_iptvm3ulist_com_231221.m3u
-https://iptvm3ulist.com/m3u/sp05_iptvm3ulist_com_231221.m3u
-https://iptvm3ulist.com/m3u/sp06_iptvm3ulist_com_231221.m3u
-https://iptvm3ulist.com/m3u/sp07_iptvm3ulist_com_231221.m3u
-https://iptvm3ulist.com/m3u/sp08_iptvm3ulist_com_231221.m3u
-ttp://11121314.org:2086/get.php?username=12345&password=12345&type=m3u
-http://cdn.worldtvip.co:25461/get.php?username=sheraz&password=kcU75HHUin&type=m3u_plus
-http://vpro.viptvclub.com:25443/get.php?username=V59Ssbxk605P&password=S8r5cjP9Ym&type=m3u_plus
-http://s3.smashmalta.com:82/get.php?username=smash&password=smash&type=m3u
-http://iptv.csserv.co:8000/get.php?username=clientr725&password=631739&type=m3u
-http://solutionplay.xyz:8080/get.php?username=techruthes&password=10987658&type=m3u_plus
-http://oscartv.mine.nu:25461/get.php?username=jmr1234&password=jmr1234&type=m3u
-http://misket.tv:2020/get.php?username=anka-icin-test&password=fhoPny6SRC&type=m3u_plus
-http://visionmedaitv.nl:7444/get.php?username=DizifiLmlerKarSki&password=NuTIkSGXjH&type=m3u
-http://185.38.151.41:15001/get.php?username=5D4FZBLept&password=gnJ1X4dXDi&type=m3u_plus
-http://168.205.87.198:8555/get.php?username=antony&password=1234&type=m3u
-http://168.205.87.198:8555/get.php?username=0117&password=123456&type=m3u
-http://168.205.87.198:8555/get.php?username=1234&password=123456&type=m3u
-http://168.205.87.198:8555/get.php?username=josee&password=123456&type=m3u
-http://168.205.87.198:8555/get.php?username=1212&password=123456&type=m3u
-http://iptv.tvmalaysia.cc/get.php?username=174726&password=174726&type=m3u
-http://190.115.29.22:8080/get.php?username=carter&password=GUV1bMq2VK&type=m3u
-http://dontuse.fluxz.cc:80/get.php?username=asNeYk5x&password=g4s5FeWg&type=m3u
-http://aslanvip.mneprox.com:8080/get.php?username=faruk08&password=faruk0808&type=m3u
-http://watchbiptv.co:80/get.php?username=KbXAMQ5B&password=5639176&type=m3u
-http://cms-portals.com:80/get.php?username=hajro&password=qDJtRRAx4Y&type=m3u
-http://toptentv.xyz:8080/get.php?username=3143333180178705&password=2598854265&type=m3u
-http://link.iptvlogin.com:80/play/6Z9kH7XHKrHOAIipci2gbFci_yFl-g0QJBGM5Uu6ReymafAVtK7UyOC4fXmcbAK-/ts
-http://obsfullhd.tv:25461/get.php?username=Freeiptv&password=oJKu4YFSWT&type=m3u
+group,Music
+ext,Afrobeats (1080p),https://stream.ecable.tv/afrobeats/index.m3u8
+BoxHits.uk,Box Hits (576p),https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+ext,Brit Asia Live (US Eastern) (720p) [Not 24/7],https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0500/c.m3u8
+ext,Brit Asia Live (US Pacific) (720p) [Not 24/7],https://a.jsrdn.com/broadcast/22693_4rGhgrBU/-0800/c.m3u8
+ext,Qello Concerts by Stingray (1080p),https://stingray-qelloconcerts-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+ext,Qwest TV Classical (720p) [Geo-blocked],https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestclassic-uk-samsungtv/playlist.m3u8
+ext,Qwest TV Jazz & Beyond (720p) [Geo-blocked],https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestjazz-uk-samsungtv/playlist.m3u8
+ext,Qwest TV Mix (720p) [Geo-blocked],https://cdn-ue1-prod.tsv2.amagi.tv/linear/qwestAAAA-qwestmix-uk-samsungtv/playlist.m3u8
+ext,Real Stories (720p),https://realstories-samsung-uk.amagi.tv/playlist.m3u8
+ext,Reuters (1080p),https://reuters-reutersnow-1.plex.wurl.com/manifest/playlist.m3u8
+ext,Reuters Now (1080p),https://reuters-reutersnow-1.roku.wurl.com/manifest/playlist.m3u8
+ext,Reuters TV (720p),https://reuters-reuters-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+ext,The Box UK (576p),https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+ext,Time Line (720p),https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+TJC.uk,TJC (1080p),https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
+ext,V2BEAT (720p) [Not 24/7],https://abr.de1se01.v2beat.live/playlist.m3u8
+ext,Wonder (1080p),https://lds-wonder-plex.amagi.tv/playlist.m3u8
+
+group,Religious
+AhlulbaytTV.uk,Ahlulbayt TV (480p) [Not 24/7],http://109.123.126.14:1935/live/livestream1.sdp/playlist.m3u8
+ext,Ahwazna (720p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.twitch.tv/ahwaznach
+ext,Akaal TV (396p) [Geo-blocked],https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
+ext,British Muslim TV (576p),https://api.visionip.tv/live/ASHTTP/visiontvuk-international-britishmuslimtv-hsslive-25f-16x9-MB/playlist.m3u8
+BTSport1.uk,BT Sport 1 (576p) [Not 24/7],https://sport.livedoomovie.com/02_BTSPORTHD_1_720p/chunklist.m3u8
+BTSport2.uk,BT Sport 2 (576p) [Not 24/7],https://sport.livedoomovie.com/02_BTSPORTHD_2_720p/chunklist.m3u8
+CBBC.uk,CBBC (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,CBBC HD (720p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbbc_hd/t=3840/v=pv14/b=5070016/main.m3u8
+CBeebies.uk,CBeebies (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,CBeebies HD (720p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:cbeebies_hd/t=3840/v=pv14/b=5070016/main.m3u8
+EmanChannel.uk,Eman Channel (576p),https://ap02.iqplay.tv:8082/iqb8002/3m9n/playlist.m3u8
+avi,Fadak TV (1080p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/ddrricky/live
+ext,God TV UK (720p),https://zypelive-lh.akamaihd.net/i/default_1@745545/master.m3u8
+ext,Iqra Bangla (576p),https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
+ext,Iqra TV (576p),https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
+ext,Iqraa TV (576p) [Geo-blocked],http://wowzaprod3-lh.akamaihd.net/i/83372732_1@141298/master.m3u8
+IslamChannel.uk,Islam Channel (576p) [Not 24/7],https://live.islamchannel.tv/islamtv/islamtv_english/bitrate1.isml/live.m3u8
+ext,ITV (302p) [Geo-blocked],http://31.220.41.88:8081/live/itv1.stream/chunks.m3u8
+ITV2.uk,ITV2 (432p) [Geo-blocked],http://31.220.41.88:8081/live/itv2.stream/chunks.m3u8
+ITV3.uk,ITV3 (432p) [Geo-blocked],http://31.220.41.88:8081/live/itv3.stream/chunks.m3u8
+ITV4.uk,ITV4 (302p) [Geo-blocked],http://31.220.41.88:8081/live/itv4.stream/chunks.m3u8
+ext,Loveworld TV (1080p) [Not 24/7],https://cdn.lwuk.live/live/smil:lwukweb.smil/playlist.m3u8
+
+group,General
+ext,Anand TV (720p),https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8
+ext,ATN Bangla UK (576p) [Geo-blocked],https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
+ext,Awraas TV (1080p) [Not 24/7],https://b01c02nl.mediatriple.net/videoonlylive/mtqtqloqdxtlive/broadcast_5cefc3677caee.smil/playlist.m3u8
+BBCAlba.uk,BBC Alba (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_alba/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC Earth [Geo-blocked],https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+ext,BBC Four (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC Four HD (720p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_four_hd/t=3840/v=pv14/b=5070016/main.m3u8
+DeenTV.uk,Deen TV (576p) [Not 24/7],https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deentv.stream/playlist.m3u8
+ext,iON TV (576p),https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
+ext,NTV Europe (720p) [Not 24/7],https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
+
+group,News
+ext,Arise News (576p),https://news.ashttp9.visionip.tv/live/visiontvuk-news-arise-tv-hsslive-25f-16x9-SD/playlist.m3u8
+ext,BBC News (540p) [Geo-blocked],https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
+ext,BBC One Cambridge (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_cambridge/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One Channel Islands (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_channel_islands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One East (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One East Midlands (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One East Yorkshire (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_east_yorkshire/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+BBCOneHD.uk,BBC One HD (720p) [Geo-blocked],https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_hd/t=3840/v=pv14/b=5070016/main.m3u8
+ext,BBC One London (540p) [Geo-blocked],https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_london/mobile_wifi_main_sd_abr_v2.m3u8
+ext,BBC One North East (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One North West (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_north_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One Northern Ireland (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One Northern Ireland HD (720p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+ext,BBC One Oxford (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_oxford/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+BBC1Scotland.uk,BBC One Scotland (480p),http://www.filmon.com/vr-streams/3166.high/playlist.m3u8
+ext,BBC One Scotland HD (720p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_scotland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+ext,BBC One South (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One South East (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_east/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One South West (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_south_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One Wales (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One Wales HD (720p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_wales_hd/t=3840/v=pv14/b=5070016/main.m3u8
+ext,BBC One West (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One West Midlands (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_west_midlands/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC One Yorks (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_one_yorks/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+BBCParliament.uk,BBC Parliament (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_parliament/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC Red Button 1 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_01.m3u8
+BBCRedButton2.uk,BBC Red Button 2 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_02.m3u8
+BBCRedButton3.uk,BBC Red Button 3 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_03.m3u8
+BBCRedButton4.uk,BBC Red Button 4 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_04.m3u8
+BBCRedButton5.uk,BBC Red Button 5 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_05.m3u8
+BBCRedButton6.uk,BBC Red Button 6 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_06.m3u8
+ext,BBC Red Button 7 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_07.m3u8
+ext,BBC Red Button 8 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_08.m3u8
+ext,BBC Red Button 9 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_09.m3u8
+ext,BBC Red Button 10 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_10.m3u8
+ext,BBC Red Button 11 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_11.m3u8
+ext,BBC Red Button 12 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_12.m3u8
+ext,BBC Red Button 13 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_13.m3u8
+ext,BBC Red Button 14 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_14.m3u8
+ext,BBC Red Button 15 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_15.m3u8
+ext,BBC Red Button 16 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_16.m3u8
+ext,BBC Red Button 17 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_17.m3u8
+ext,BBC Red Button 18 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_18.m3u8
+ext,BBC Red Button 19 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_19.m3u8
+ext,BBC Red Button 20 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_20.m3u8
+ext,BBC Red Button 21 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_21.m3u8
+ext,BBC Red Button 22 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_22.m3u8
+ext,BBC Red Button 23 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_23.m3u8
+ext,BBC Red Button 24 (720p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/hls/uk/abr_hdtv/ak/sport_stream_24.m3u8
+BBCScotland.uk,BBC Scotland (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_scotland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC Scotland HD (720p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/content/x=3/v=pv14/b=5070016/t=3840/i=urn:bbc:pips:service:bbc_scotland_hd/main.m3u8
+ext,BBC Two England (540p) [Geo-blocked],https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/mobile_wifi_main_sd_abr_v2.m3u8
+ext,BBC Two HD (720p) [Geo-blocked],https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_hd/t=3840/v=pv14/b=5070016/main.m3u8
+ext,BBC Two Northen Ireland (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC Two Northern Ireland HD (720p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_northern_ireland_hd/t=3840/v=pv14/b=5070016/main.m3u8
+ext,BBC Two Wales (540p) [Geo-blocked],https://vs-hls-push-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_two_wales_digital/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,BBC UHD Trial 1 (2160p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_01.mpd
+ext,BBC UHD Trial 2 (2160p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_02.mpd
+ext,BBC UHD Trial 3 (2160p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_03.mpd
+ext,BBC UHD Trial 4 (2160p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_04.mpd
+ext,BBC UHD Trial 5 (2160p) [Geo-blocked],https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_05.mpd
+BBCWorldNews.nws,BBC World News (480p),http://ott-cdn.ucom.am/s24/index.m3u8
+CNN.nws,CNN International Europe (720p),https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+ext,CNN International UK (720p),https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+GBNews.uk,GB News (1080p),https://live-gbnews.simplestreamcdn.com/gbnews/gbnews/bitrate1.isml/live.m3u8
+ext,Iran International (1080p),https://live.playstop.me/1816184091/index.m3u8
+ext,RT UK (1080p),https://rt-uk.gcdn.co/live/rtuk/playlist.m3u8
+ext,Rugby Men's Sevens (288p),https://esmhls1-i.akamaihd.net/hls/live/510580/hls1/playlist.m3u8
+ext,Rugby Women's Sevens (288p),https://esmhls2-i.akamaihd.net/hls/live/510581/hls2/playlist.m3u8
+ext,Rugby World TV (720p),https://esmhls3-i.akamaihd.net/hls/live/510582/hls3/playlist.m3u8
+S4C.uk,S4C (540p) [Geo-blocked],https://vs-hls-pushb-uk-live.akamaized.net/x=3/i=urn:bbc:pips:service:s4cpbs/mobile_wifi_main_sd_abr_v2_akamai_hls_live_http.m3u8
+ext,Sangat Television (368p) [Not 24/7],https://api.new.livestream.com/accounts/6986636/events/5362122/live.m3u8
+SkyNews.uk,Sky News (720p) [Geo-blocked],http://skynews-sn-cdhls.ak-cdn.skydvn.com/cdhlsskynews/1404/latest.m3u8
+ext,Sofy TV (720p),https://sofytv-samsunguk.amagi.tv/playlist.m3u8
+ext,Spark Tv (720p),https://sparktv-samsunguk.amagi.tv/playlist.m3u8
+ext,Spike (404p),https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@829515/master.m3u8
+
+group,Business
+ext,Bloomberg TV EMEA Live Event (720p),https://www.bloomberg.com/media-manifest/streams/eu-event.m3u8
+bloomberg,Bloomberg TV Europe (720p),https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
+
+group,Local
+ext,Channel S (720p) [Not 24/7],https://a.jsrdn.com/r-373576a3/publish/22679_24MrQma9TX/index.m3u8
+ext,Channel S (US Eastern) (720p),https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0500/c.m3u8
+ext,Channel S (US Pacific) (720p),https://a.jsrdn.com/broadcast/22679_24MrQma9TX/-0800/c.m3u8
+ext,Chelsea TV (576p),http://c0.cdn.trinity-tv.net/stream/hujuv8xpr4gdugis2szd4rqrvpzip8iuwn2jwpt68wmvpmdz79qime8idwrxga95rnghp64hfimevyvrp6n7p3c52yg3rfsuhxe9u9az35ti8te625sxerfwaxr2cbefyau4tmfa4nwqvca6ckmtwv2=.m3u8
+ClubbingTV.pt,Clubbing TV (720p),https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
+ext,Sheffield Live TV (360p) [Not 24/7],http://tv.sheffieldlive.org/hls/main.m3u8
+
+group,Comedy
+ext,Comedy Channel (1080p),https://uksono1-samsunguk.amagi.tv/playlist.m3u8
+
+group,Shop
+ext,Craft Store TV (720p),https://live-hochanda.simplestreamcdn.com/hochanda/live.m3u8
+ext,Cruise1st TV (396p) [Geo-blocked],https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8
+GemsTV.uk,Gems TV (360p),http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
+avi,Ideal World TV (1080p) [Not 24/7],http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/IdealworldTvShopping/live
+ext,QVC UK (540p),https://d1txbbj1u9asam.cloudfront.net/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
+
+group,Series
+ext,Dark Matter TV (720p),https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00434-tricoast-darkmatter-spanish-samsunguk/playlist.m3u8
+
+group,Movies
+ext,Dust (720p),https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
+
+group,Sports
+ext,EDGEsport (1080p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
+ext,EDGESport (1080p),https://edgesports-sportstribal.amagi.tv/playlist.m3u8
+FreeSports.uk,FreeSports (1080p) [Not 24/7],https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
+ext,FTF For the fans (720p),https://elevensports-uk.samsung.wurl.com/manifest/playlist.m3u8
+ext,Garshom TV (360p) [Not 24/7],http://og2qd3aal7an-hls-live.5centscdn.com/garshomtv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+ext,Hard Knocks (1080p) [Not 24/7],https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-SportsTribal/121.m3u8
+ext,MavTV Europe (720p),https://mavtv-mavtvglobal-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
+ext,Pac12 Insider (720p),https://pac12-sportstribal.amagi.tv/playlist.m3u8
+ext,Players TV (1080p),https://playerstv-samsunguk.amagi.tv/playlist.m3u8
+ext,SKI TV (1080p) [Not 24/7],https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
+ext,Ski TV (1080p) [Not 24/7],https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-Zee/193.m3u8
+ext,Sports Tonight (576p),http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
+ext,SportsGrid (1080p),https://sportsgrid-tribal.amagi.tv/playlist.m3u8
+ext,Sporty Stuff TV (1080p),https://ayozat-live.secure2.footprint.net/egress/bhandler/ayozat/sportystufftv/playlist.m3u8
+ext,Spotlight TV (576p),https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-spotlighttv-hsslive-25f-SD/chunklist.m3u8
+ext,Stingray Karaoke (1080p),https://stingray-karaoke-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+ext,Tastemade (720p),https://tastemade-gb.samsung.wurl.com/manifest/playlist.m3u8
+ext,Teletubbies (432p),https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
+ext,Tennis Channel (UK) (720p),https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
+ext,World Poker Tour (1080p) [Not 24/7],https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-SportsTribal/120.m3u8
+
+group,Kids
+ext,IGN TV (720p),https://ign-sportstribal.amagi.tv/playlist.m3u8
+ext,Moonbug Kids (1080p),https://moonbug-rokuus.amagi.tv/playlist.m3u8
+ext,MTA 1 English (1080p),https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
+ext,MTA 1 Original (1080p),https://ooyalahd2-f.akamaihd.net/i/mtaorigin_delivery@353498/master.m3u8
+ext,MTA 1 Urdu (1080p),https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
+ext,MTA 2 (720p),https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+ext,MTA 2 Urdu (720p),https://ooyalahd2-f.akamaihd.net/i/mtageraudio_delivery@308889/master.m3u8
+ext,MTA 3 (1080p),https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+ext,MTA Africa (1080p),https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
+ext,n TV (US Eastern) (720p),https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0500/c.m3u8
+ext,Nick Jr Too UK (576p) [Geo-blocked],http://212.224.98.213:2200/EX/Nick_Jr_Too-uk/index.m3u8?token=
+
+
